@@ -1,4 +1,5 @@
 ---
+type: Skill
 name: marp-slides
 description: Create beautiful MARP presentation decks with SVG charts, interactive elements, dashboard components, animations, dark/light themes. Triggers on 'marp', 'slides', 'presentation', 'deck'.
 version: 2.0
